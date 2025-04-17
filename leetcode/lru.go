@@ -1,3 +1,5 @@
+package main
+
 type LRUCache struct {
     size int
     capacity int
